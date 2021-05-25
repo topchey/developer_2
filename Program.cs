@@ -14,6 +14,7 @@ namespace ConsoleApp18
             Console.WriteLine("Instruction 2");
             Console.WriteLine("Instruction 3");
             Console.WriteLine(" Другой чувак Instruction 4");
+            Console.WriteLine(" Другой чувак Instruction 4_4");
         }
     }
 }
