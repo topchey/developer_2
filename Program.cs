@@ -16,5 +16,11 @@ namespace ConsoleApp18
             Console.WriteLine(" Другой чувак Instruction 4");
             Console.WriteLine(" Другой чувак Instruction 4_4");
         }
+
+        static void Function()
+        {
+            Console.WriteLine("Hello Vasya");
+     
+        }
     }
 }
