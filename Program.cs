@@ -20,7 +20,8 @@ namespace ConsoleApp18
         static void Function()
         {
             Console.WriteLine("Hello Vasya");
-     
+            Console.WriteLine("Hello Vasya 2 другой чувак");
+             Console.WriteLine("еще");
         }
     }
 }
